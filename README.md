@@ -22,6 +22,11 @@ Lets get started.
 
 Student ID | Movie | Year of Release
 --- | --- | ---
+1913208 | Dark Knight | 2009
+1913208 | Avengers | 2001
+1913208 | Jurassic Park 1 | 1992
+1913208 | JP2 | 1993
+1913208 | Die Hard | 1993
 1808245 | Dark Knight | 2009
 1808245 | Avengers | 2001
 1800000 | Jurassic Park 1 | 1992
